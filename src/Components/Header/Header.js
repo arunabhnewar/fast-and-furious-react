@@ -13,7 +13,8 @@ const Header = () => {
                 <a href="/home">Home</a>
                 <a href="/franchise">Franchise</a>
                 <a href="/cast">Cast</a>
-                <a href="/crew">Crew</a>
+                <a href="/boxOffice">Box Office</a>
+                <a href="/award">Award</a>
             </nav>
         </div>
     );

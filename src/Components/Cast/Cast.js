@@ -13,6 +13,13 @@ const Cast = (props) => {
         <div className="cast-container">
             <h5>Cast Added: <FontAwesomeIcon icon={faUser}></FontAwesomeIcon> {props.cast.length}</h5>
             <h5>Total Cost: ${total}</h5>
+            <div>
+                <ul>
+                    {
+                        cast.map(name => <p>cast added: {name.name}</p>)
+                    }
+                </ul>
+            </div>
         </div>
     );
 };

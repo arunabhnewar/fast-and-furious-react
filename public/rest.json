@@ -1,0 +1,110 @@
+[
+    {
+        "key": "Lin",
+        "name": "Justin Lin",
+        "roll": "Director",
+        "age": 49,
+        "country": "Taiwan",
+        "remuneration": 5000000,
+        "img": "https://fnf-image.netlify.app/member-1.png"
+    },
+    {
+        "key": "Gary",
+        "name": "Gary Scott",
+        "roll": "Screenplay",
+        "age": 61,
+        "country": "USA",
+        "remuneration": 4000000,
+        "img": "https://fnf-image.netlify.app/member-2.png"
+    },
+    {
+        "key": "Irv",
+        "name": "Irv Gotti",
+        "roll": "Music",
+        "age": 51,
+        "country": "USA",
+        "remuneration": 4500000,
+        "img": "https://fnf-image.netlify.app/member-3.png"
+    },
+    {
+        "key": "Vin",
+        "name": "Vin Diesel",
+        "roll": "Actor",
+        "age": 54,
+        "country": "USA",
+        "remuneration": 35000000,
+        "img": "https://fnf-image.netlify.app/member-4.png"
+    },
+    {
+        "key": "Michelle",
+        "name": "Michelle Rodriguez",
+        "roll": "Actress",
+        "age": 43,
+        "country": "USA",
+        "remuneration": 7000000,
+        "img": "https://fnf-image.netlify.app/member-5.png"
+    },
+    {
+        "key": "Dwayne",
+        "name": "Dwayne Johnson",
+        "roll": "Actor",
+        "age": 49,
+        "country": "USA",
+        "remuneration": 40000000,
+        "img": "https://fnf-image.netlify.app/member-6.png"
+    },
+    {
+        "key": "Jordana",
+        "name": "Jordana Brewster",
+        "roll": "Actress",
+        "age": 41,
+        "country": "Panama",
+        "remuneration": 40000000,
+        "img": "https://fnf-image.netlify.app/member-7.png"
+    },
+    {
+        "key": "Tyrese",
+        "name": "Tyrese Gibson",
+        "roll": "Actor",
+        "age": 42,
+        "country": "USA",
+        "remuneration": 10000000,
+        "img": "https://fnf-image.netlify.app/member-8.png"
+    },
+    {
+        "key": "Ludacris",
+        "name": "Ludacris",
+        "roll": "Actor",
+        "age": 44,
+        "country": "USA",
+        "remuneration": 8000000,
+        "img": "https://fnf-image.netlify.app/member-9.png"
+    },
+    {
+        "key": "Charlize",
+        "name": "Charlize Theron",
+        "roll": "Actress",
+        "age": 46,
+        "country": "South Africa",
+        "remuneration": 30000000,
+        "img": "https://fnf-image.netlify.app/member-10.png"
+    },
+    {
+        "key": "Nathalie",
+        "name": "Nathalie Emmanuel",
+        "roll": "Actress",
+        "age": 32,
+        "country": "England",
+        "remuneration": 8000000,
+        "img": "https://fnf-image.netlify.app/member-11.png"
+    },
+    {
+        "key": "Sunk",
+        "name": "Sunk Kang",
+        "roll": "Actor",
+        "age": 49,
+        "country": "USA",
+        "remuneration": 5000000,
+        "img": "https://fnf-image.netlify.app/member-12.png"
+    }
+]

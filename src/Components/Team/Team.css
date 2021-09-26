@@ -1,0 +1,17 @@
+.team-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 15px;
+}
+.members-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 55px;
+    grid-row-gap: 50px;
+    /* border-right: 1px solid lightgrey; */
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.new-cast-container{
+    text-align:center;
+}

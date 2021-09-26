@@ -1,6 +1,16 @@
 .item-card {
     background-color:#f7f1e3;
+    transition: transform 0.6s;
+    cursor: pointer;
+    border-radius: 5px;
 }
+.item-card:hover {
+    transform: scale(1.1);
+    border-radius: 10px;
+    border: 2px solid #ff9f43;
+    box-shadow: 2px 2px #ff9f43;
+}
+
 .members-info {
     background-color: #f7f1e3;
     color: #2c3e50;

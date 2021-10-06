@@ -1,3 +1,4 @@
+import { faFacebookSquare, faInstagramSquare, faTwitterSquare } from '@fortawesome/free-brands-svg-icons';
 import { faSuitcase } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
@@ -15,10 +16,18 @@ const Member = (props) => {
                     <h6 className="card-text">Country: {country}</h6>
                     <h6>Roll: {roll}</h6>
                     <h6 className="card-text">Remuneration: {remuneration}</h6>
+
+                    <p style={{ fontSize: "24px", padding: "4px" }}>
+                        <span > <FontAwesomeIcon icon={faFacebookSquare} /> </span>
+                        <span> <FontAwesomeIcon icon={faInstagramSquare} /> </span>
+                        <span> <FontAwesomeIcon icon={faTwitterSquare} /> </span>
+                    </p>
+
                     <button
                         onClick={() => { props.handleAddToCast(props.member) }}
                         className="add-btn">
-                        <FontAwesomeIcon icon={faSuitcase}></FontAwesomeIcon> Add Cast</button>
+                        <FontAwesomeIcon icon={faSuitcase}></FontAwesomeIcon> Add Cast
+                    </button>
                 </div>
             </div>
         </div>

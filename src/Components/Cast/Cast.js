@@ -11,8 +11,8 @@ const Cast = (props) => {
     }
     return (
         <div className="cast-container">
-            <h5 className="pt-3">Cast Added: <FontAwesomeIcon icon={faUser}></FontAwesomeIcon> {props.cast.length}</h5>
-            <h5>Total Cost: ${total}</h5>
+            <h5 className="pt-3">New Cast Added: <FontAwesomeIcon icon={faUser}></FontAwesomeIcon> {props.cast.length}</h5>
+            <h5>Total Cost: $ {total}</h5>
             <div>
                 <ul>
                     {
